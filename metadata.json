@@ -1,0 +1,5 @@
+{
+  "name": "KBH",
+  "description": "A comprehensive hostel management system with role-based access for students and managers, featuring room booking, maintenance requests, billing, and advanced analytics.",
+  "requestFramePermissions": []
+}
